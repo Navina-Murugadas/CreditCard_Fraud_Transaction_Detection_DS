@@ -26,7 +26,7 @@ Logistic Regression
 6. Model Evaluation
 7. Building Predictive system
 
-# Analysis Result:
+# Result:
 Prediction = 0 represents LEGIT TRANSACTION
 
 Prediction = 1 represents FRAUDULENT TRANSACTION
