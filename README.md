@@ -13,6 +13,9 @@ Logistic Regression
 6. SkLearn - Model Building
 7. Microsoft Excel
 
+# Datset used:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 # Prerequisites:
 1. A prior knowledge of Python programming language along with its libraries for data science such as Numpy, Pandas, Matplotlib, Seaborn, SkLearn is needed.
 2. Installation of required libraries
